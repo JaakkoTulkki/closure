@@ -7,7 +7,7 @@ the source code to determine where that variable is available.
 Nested functions have access to variables declared in their outer scope."
 
 In other words:
-Where a function get declared determines what data the function has access to.
+Where a function gets declared determines what data the function has access to.
 
 Thus, the scoping is static.
 `;
