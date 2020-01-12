@@ -6,7 +6,7 @@ From MDN
  In other words, a closure gives you access to an outer 
  function’s scope from an inner function."
  
-Other: a function that remembers outer variables and functions that were defined at the time of the definition
+Other words: a function that remembers outer variables and functions that were defined at the time of the definition
 of the function.
 
 `;
