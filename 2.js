@@ -17,7 +17,7 @@ function outer() {
   function inner() {
     function nestedInner() {
       return c;
-    };
+    }
     return nestedInner;
   }
   return inner();
